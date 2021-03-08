@@ -1,2 +1,2 @@
 # Backend-Hyeum
-혜윰 Backend 버전입니다.
+혜윰 Backend repository 입니다.
